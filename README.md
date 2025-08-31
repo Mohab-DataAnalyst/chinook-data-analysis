@@ -20,17 +20,23 @@ It explores sales and customer data from the Chinook database using **MySQL**, f
 
 ## 🔍 Key Findings
 
-✅ **Top-Selling Products:**  
-- Identified which tracks generated the highest sales volume.  
+The analysis of the Chinook database revealed several key insights:
 
-✅ **Revenue by Region:**  
-- Highlighted regions contributing the most to total revenue.  
+✅ Invoice Date Range: Transactions span from January 1, 2021 to December 22, 2025.
 
-✅ **Monthly Sales Performance:**  
-- Observed seasonal trends and variations in sales across years (2021–2025 dataset).  
+✅ Total Revenue: The dataset generated $2,329 in total revenue.
 
-✅ **Top Customers (by Total Spend):**  
-- Ranked customers to reveal the most valuable clients for the business.  
+✅ Sales Volume: A total of 2,240 tracks were sold across 412 invoices.
+
+✅ Customer Base: There are 59 unique customers, with the USA contributing the largest share (13 customers), followed by Canada.
+
+✅ Average Track Price: The mean price per track is $1.05.
+
+✅ Regional Performance: The USA leads in revenue ($523), followed by the UK ($113).
+
+✅ Genre Popularity: Rock dominates as the best-selling genre ($827 in revenue), followed by Latin and Metal.
+
+✅ Revenue Trend: Yearly revenue shows moderate fluctuation, with a peak in 2022 ($481) and relatively stable performance in surrounding years.
 
 ---
 
